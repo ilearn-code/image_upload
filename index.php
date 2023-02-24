@@ -11,7 +11,16 @@
   Select image to upload:
   <input type="file" name="image">
   <input type="submit" value="Upload Image" name="submit">
-  <img src="getimage.php?id=4" alt="Image">
+
+<div class="conatiner">
+
+<img src="getimage.php?id=1" alt="Image" height="400px" width="400px">
+  <img src="getimage.php?id=4" alt="Image" height="400px" width="400px">
+ 
+
+</div>
+
+ 
 </form>    
 </body>
 </html>
